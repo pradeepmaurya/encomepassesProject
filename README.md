@@ -33,4 +33,9 @@
        * LaptopRepository
        * StudentRepository
     * Database Connection 
+      * MySql Database Connection
   ***
+  
+  # Summary
+  ***
+   * ## Inside This project you can Add, Update, Delete, Get Operation for all Models
